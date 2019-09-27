@@ -1,0 +1,2 @@
+# bigquery-doc.go
+New
